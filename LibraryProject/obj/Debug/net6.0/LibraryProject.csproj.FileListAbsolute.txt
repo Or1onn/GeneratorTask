@@ -1,0 +1,12 @@
+C:\Users\salax\RiderProjects\GeneratorTask\LibraryProject\bin\Debug\net6.0\LibraryProject.deps.json
+C:\Users\salax\RiderProjects\GeneratorTask\LibraryProject\bin\Debug\net6.0\LibraryProject.dll
+C:\Users\salax\RiderProjects\GeneratorTask\LibraryProject\bin\Debug\net6.0\LibraryProject.pdb
+C:\Users\salax\RiderProjects\GeneratorTask\LibraryProject\obj\Debug\net6.0\LibraryProject.csproj.AssemblyReference.cache
+C:\Users\salax\RiderProjects\GeneratorTask\LibraryProject\obj\Debug\net6.0\LibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salax\RiderProjects\GeneratorTask\LibraryProject\obj\Debug\net6.0\LibraryProject.AssemblyInfoInputs.cache
+C:\Users\salax\RiderProjects\GeneratorTask\LibraryProject\obj\Debug\net6.0\LibraryProject.AssemblyInfo.cs
+C:\Users\salax\RiderProjects\GeneratorTask\LibraryProject\obj\Debug\net6.0\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\salax\RiderProjects\GeneratorTask\LibraryProject\obj\Debug\net6.0\LibraryProject.dll
+C:\Users\salax\RiderProjects\GeneratorTask\LibraryProject\obj\Debug\net6.0\refint\LibraryProject.dll
+C:\Users\salax\RiderProjects\GeneratorTask\LibraryProject\obj\Debug\net6.0\LibraryProject.pdb
+C:\Users\salax\RiderProjects\GeneratorTask\LibraryProject\obj\Debug\net6.0\ref\LibraryProject.dll

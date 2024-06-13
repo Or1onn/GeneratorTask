@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceGenerator", "SourceGenerator\SourceGenerator.csproj", "{F7C9DC3E-323F-43CE-904C-788926516CAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryProject", "LibraryProject\LibraryProject.csproj", "{1F386E64-9417-4B5F-87C6-296D89CE852E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7C9DC3E-323F-43CE-904C-788926516CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C9DC3E-323F-43CE-904C-788926516CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C9DC3E-323F-43CE-904C-788926516CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C9DC3E-323F-43CE-904C-788926516CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F386E64-9417-4B5F-87C6-296D89CE852E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F386E64-9417-4B5F-87C6-296D89CE852E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F386E64-9417-4B5F-87C6-296D89CE852E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F386E64-9417-4B5F-87C6-296D89CE852E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
